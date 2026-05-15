@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "kategori": "Wisata",
+        "provinsi": "Jawa Tengah",
+        "kota": "Semarang",
+        "alamat_lengkap": "Jl. Anggrek Raya No.23-19, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50241",
+        "koordinat": "-6.9893939,110.4151833,16z",
+        "image": "https://nagantour.com/wp-content/uploads/2023/11/Simpang-Lima.webp"
+    },
+    {
+        "id": 2,
+        "kategori": "Wisata",
+        "provinsi": "Jawa Tengah",
+        "kota": "Semarang",
+        "alamat_lengkap": "Jl. Anggrek Raya No.23-19, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50241",
+        "koordinat": "-6.9739188,110.4287356,16z",
+        "image": "https://ik.imagekit.io/tvlk/blog/2025/03/TOGUtrrt-simpang-lima-mobile.png"
+    },
+    {
+        "id": 2,
+        "kategori": "Hotel",
+        "provinsi": "Jawa Tengah",
+        "kota": "Semarang",
+        "alamat_lengkap": "Desa Ngadibolo, Jl. Kaliwungu, Nagadibolo, Boja, Kendal Regency, Central Java 51381",
+        "koordinat": "-7.0928284,110.2738053,17z",
+        "image": "https://hargacampur.com/wp-content/uploads/2024/01/Harga-Tiket-Masuk-River-Walk-Boja.webp"
+    }
+]
